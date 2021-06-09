@@ -1,6 +1,8 @@
 # JAVA-Assignments1
 2020级Java程序设计上机作业 teacher：ZT
+
 题目要求
+
 ##1.	STUDENT
 
 设计一个Student类，    
